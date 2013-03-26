@@ -14,7 +14,7 @@ public class Hello2 {
 		System.out.println("THIS IS A DEBUG LINE!!");
 		//we want to commit this patch without the debug line BUT keeping it in 
 		//my working copy
-		System.out.printf("Hello %s!!", name);
+		System.out.printf("Hello, %s!!", name);
 		
 		
 
